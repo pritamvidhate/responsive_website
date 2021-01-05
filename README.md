@@ -1,2 +1,2 @@
 # responsive_website
-This repository contains website template developed using HTML, CSS.
+This repository contains responsive website template developed using HTML, CSS.
